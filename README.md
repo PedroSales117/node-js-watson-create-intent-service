@@ -45,4 +45,4 @@ virgula,nome_da_intencao
 
 Para quaisquer duvidas você pode me contatar via _sales_pedro@terceiros.sicredi.com.br_ ou _pedro.sales@compasso.com.br_.
 
-Espero que ese projeto te ajude!!
+Espero que esse projeto te ajude!!
