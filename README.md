@@ -44,6 +44,6 @@ virgula,nome_da_intencao
 > Você também pode acessar a pasta _intents_ dentro do projeto e você verá todos os seus arquivos CSVs de intenções criados e prontos para serem levados para sua workspace do Watson.
 </details>
 
-Para quaisquer duvidas você pode me contatar via _sales_pedro@terceiros.sicredi.com.br_ ou _pedro.sales@compasso.com.br_.
+Para quaisquer duvidas você pode me contatar via _pedrohenrysalles@outlook.com_.
 
 Espero que esse projeto te ajude!!
