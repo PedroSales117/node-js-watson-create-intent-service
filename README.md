@@ -21,7 +21,7 @@ O resultado do comando acima deve ser este:
 
 `listening http://localhost:8080`
 
-Agora em alguma ferramenta que possa realizar requisições `POST` (recomendo [postman](https://www.postman.com/downloads/)) você irá informar via `BODY` o **nome** e o **titulo** de sua intenção deste modo:
+Agora em alguma ferramenta que possa realizar requisições `POST` (recomendo [postman](https://www.postman.com/downloads/)) pela rota `/createIntent` você irá informar via `BODY` o **nome** e o **titulo** de sua intenção deste modo:
 
 ```json
 {
